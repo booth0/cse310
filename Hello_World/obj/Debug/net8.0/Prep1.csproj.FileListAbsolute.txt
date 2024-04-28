@@ -1,0 +1,15 @@
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.exe
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.deps.json
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.runtimeconfig.json
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.dll
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.pdb
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.AssemblyInfoInputs.cache
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.AssemblyInfo.cs
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.csproj.CoreCompileInputs.cache
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.sourcelink.json
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.dll
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\refint\Prep1.dll
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.pdb
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\Prep1.genruntimeconfig.cache
+c:\Users\10toa\OneDrive\Desktop\CSE 210\CSE210-Repository\csharp-prep\Prep1\obj\Debug\net8.0\ref\Prep1.dll
