@@ -1,0 +1,41 @@
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+p {
+    background-color: brown;
+    text-align: center;
+    font-size: x-large;
+    margin: 5%;
+    width: 10rem;
+    height: 14rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 14rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 10rem;
+    height: 14rem;
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    display: none; /* Initially hidden */
+    justify-content: center;
+    align-items: center;
+    z-index: 999; /* Ensure the overlay is on top of other content */
+}
+
+.overlay-content {
+    font-size: 48px;
+    color: white;
+}
