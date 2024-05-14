@@ -15,34 +15,27 @@ function shuffleArray(array) {
   
 
 resetButton.addEventListener('click', () => {
-    
+    location.reload();
 })
 
 
-
-document.addEventListener('DOMContentLoaded', () => {
-    const cards = document.querySelectorAll('main p');
-    const overlay = document.getElementById('overlay');
-
-    cards.forEach(function(card, index) {
-        card.addEventListener('click', () => {
-            let content = 'Hello';
-            if (card.innerHTML == 'H') {
-                content = symbols[index];
-                card.style.backgroundColor = 'cornsilk';
-            }
-            else {
-                content = 'H';
-                card.style.backgroundColor = 'brown';
-            }
-            card.innerHTML = `${content}`
-            // overlay.innerHTML = `<div class="overlay-content">${content}</div>`;
-            // overlay.style.display = 'flex'; // Show the overlay
+    document.addEventListener('DOMContentLoaded', () => {
+        const memoryItems = document.querySelectorAll('.memory-item');
+    
+        memoryItems.forEach(function(item, index) {
+            item.addEventListener('click', () => {
+                let content = 'Hello';
+                if (item.innerHTML == 'H') {
+                    content = symbols[index];
+                    item.style.backgroundColor = 'cornsilk';
+                }
+                else {
+                    content = 'H';
+                    item.style.backgroundColor = 'brown';
+                }
+                item.innerHTML = `${content}`
+            });
         });
-    });
 
-    overlay.addEventListener('click', () => {
-        card.innerHTML = `H`
-        // overlay.style.display = 'none'; // Hide the overlay when clicked
-    });
+    
 });

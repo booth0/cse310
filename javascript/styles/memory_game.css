@@ -4,7 +4,7 @@ main {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
 }
-p {
+.memory-item {
     background-color: brown;
     text-align: center;
     font-size: x-large;
@@ -16,26 +16,22 @@ p {
     align-items: center;
     line-height: 14rem;
 }
+button {
+    width: 5rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
 
 h1 {
-    text-align: center;
-}
-
-
-.overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 10rem;
-    height: 14rem;
-    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
-    display: none; /* Initially hidden */
     justify-content: center;
-    align-items: center;
-    z-index: 999; /* Ensure the overlay is on top of other content */
 }
 
-.overlay-content {
-    font-size: 48px;
-    color: white;
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
+
+
