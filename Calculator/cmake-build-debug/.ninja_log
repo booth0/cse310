@@ -1,0 +1,6 @@
+# ninja log v6
+455	571	7419100363168385	Calculator.exe	327dd0be130422e
+24	446	7419096870940725	CMakeFiles/Audio_Player.dir/main.cpp.obj	20c5bf7fdb8463a5
+446	542	7419096875160172	Audio_Player.exe	5c29a93c81d8e5b8
+18	463	7419100637749571	build.ninja	5ebfd18422d9b482
+18	454	7419100358804565	CMakeFiles/Calculator.dir/main.cpp.obj	dfa5f531e081e04c
